@@ -1,0 +1,33 @@
+
+body {
+	padding-top: 100px;
+}
+#btn-pause, #btn-start, #btn-stop {
+	width: 200px;
+	height: 60px;
+	margin: 25px;
+	font-size: 25px;
+}
+
+.container {
+	display: flex;
+	justify-content: center;
+
+
+
+}
+.timecode {
+		display: flex;
+	justify-content: center;
+	font-size: 20px;
+	letter-spacing: 0.3em;
+}
+#block_of_min, #block_of_sec, #block_of_mil, #block_of_hours, .coloumn {
+	
+	width: 70px;
+	height: 50px;
+	font-size: 60px;
+}
+.coloumn {
+	width: 20px;
+}
